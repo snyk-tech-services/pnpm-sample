@@ -19,7 +19,6 @@ jobs:
       with:
         snykToken: ${{ secrets.snykToken }}        
         snykOrganization: playground
-        pnpmLockfilePath: "./"
         # snykArguments: "--severity-threshold=high"
         # breakBuild: false
         # fullScan: false
