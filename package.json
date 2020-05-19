@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@snyk/cli-interface": "^2.3.2",
-    "adm-zip": "0.4.7",
+    "adm-zip": "0.4.14",
     "express": "4.16.0",
     "tslint": "5.1.0"
   }
